@@ -1,4 +1,4 @@
-# streama v1.0.18
+# streama v1.1
 
 
 [![Build Status](https://travis-ci.org/dularion/streama.svg?branch=master)](https://travis-ci.org/dularion/streama) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/dularion/streama/blob/master/LICENSE.md) [![Join the chat at https://gitter.im/dularion/streama](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dularion/streama?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -24,7 +24,7 @@ Ever had a huge bookshelf full of shows and movies? Ever wanted to digitalize th
 - [License](#license)
 
 # Getting Started
-- [up and running with v1.x](https://github.com/dularion/streama/wiki/Getting-started-with-v1)
+- [up and running with Streama](https://github.com/dularion/streama/wiki/Getting-started)
 
 # The Application
 
